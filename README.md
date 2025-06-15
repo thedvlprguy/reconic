@@ -2,7 +2,7 @@
 
 [![Go Version](https://img.shields.io/github/go-mod/go-version/thedvlprguy/reconic?style=for-the-badge)](https://golang.org)  
 [![Build Status](https://img.shields.io/github/actions/workflow/status/thedvlprguy/reconic/go.yml?branch=master&style=for-the-badge)](https://github.com/thedvlprguy/reconic)  
-[![License: MIT](https://img.shields.io/github/license/thedvlprguy/reconic?style=for-the-badge)](https://github.com/thedvlprguy/reconic/LICENSE)  
+[![License: MIT](https://img.shields.io/github/license/thedvlprguy/reconic?style=for-the-badge)](https://github.com/thedvlprguy/reconic/blob/main/LICENSE)  
 
 **Reconic** is a high‑performance reconnaissance CLI tool built in Go. It offers subdomain enumeration, live subdomain resolution, link crawling, JS endpoint discovery, secret detection, and more—all displayed with a sleek terminal UI powered by [`pterm`](https://github.com/pterm/pterm).
 
